@@ -34,7 +34,7 @@ function Training() {
             <div className="mt-4">
               <img
                 className="border-2 border-gray-500 m-auto"
-                src="/speisekarte.png"
+                src="/speisekarte.PNG"
                 alt="speisekarte"
                 width={750}
                 height={380}
